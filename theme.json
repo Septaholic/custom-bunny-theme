@@ -74,6 +74,7 @@
     "color": "#0A0A0A"
   }
   "plus": {
-    "version": 0
+    "version": 0,
+    "iconpack": "solar"
   }
 }
