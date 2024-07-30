@@ -73,4 +73,7 @@
     "alpha": 0.9,
     "color": "#0A0A0A"
   }
+  "plus": {
+    "version": 0
+  }
 }
