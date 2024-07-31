@@ -71,9 +71,9 @@
     "version": 0
   },
   "background": {
-    "blur": 0,
+    "blur": 0.2,
     "url": "https://raw.githubusercontent.com/Septaholic/custom-bunny-theme/main/theme_BG/background.jpg",
-    "alpha": 0.9,
+    "alpha": 0.8,
     "color": "#0A0A0A"
   }
 }
